@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ToonTanks.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Repos\Unreal Projects\ToonTanks\ToonTanks\Intermediate\Build\Win64\x64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\Repos\Unreal Projects\ToonTanks\ToonTanks\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\ToonTanks.cpp.obj"
+"D:\Repos\Unreal Projects\ToonTanks\ToonTanks\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\Default.rc2.res"
+/OUT:"D:\Repos\Unreal Projects\ToonTanks\ToonTanks\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\UnrealEditor-ToonTanks.lib"
